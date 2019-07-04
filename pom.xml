@@ -44,9 +44,9 @@
         </plugins>
     </build>
 
-    <scm>
-        <developerConnection>scm:git:https://github.com/ashaydnaik/sfg-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
+<!--    <scm>-->
+<!--        <developerConnection>scm:git:https://github.com/ashaydnaik/sfg-pet-clinic.git</developerConnection>-->
+<!--        <tag>HEAD</tag>-->
+<!--    </scm>-->
 
 </project>
